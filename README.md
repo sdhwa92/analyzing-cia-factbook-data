@@ -7,3 +7,4 @@ For running SQL queries on the Jupyter Notebook directly, we need to install one
 
 We need to run it only once.
  
+Link to the [analysing notebook page](https://github.com/sdhwa92/analyzing-cia-factbook-data/blob/main/analysing_cia_factbook.ipynb)
